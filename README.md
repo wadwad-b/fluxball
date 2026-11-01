@@ -4,6 +4,8 @@
 
 Fluxball is a fast-paced, 2D, two-player platformer with physics-based, soccer-style gameplay. Take control of your player, race across the field, and score in your opponent’s goal. Use your ability to phase through the ball and gain a speed boost.
 
+Play here: https://wadwad-b.itch.io/fluxball
+
 ## Controls
 
 | Action | Player 1 | Player 2 |
